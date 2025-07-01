@@ -15,7 +15,7 @@
 ## Architecture Overview
 This workflow stitches together multiple systems for a seamless chat experience:
 
-![Chatbot Vector](https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/vector-chat-bot.png)
+<img src="https://primary-production-2548.up.railway.app/wp-content/uploads/2025/07/vector-chat-bot.png" alt="Chatbot Vector" width="600"/>
 
 
 ```mermaid
