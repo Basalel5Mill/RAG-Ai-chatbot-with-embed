@@ -1,4 +1,3 @@
-````markdown
 # n8n AI-Powered Chatbot Workflow
 
 ## Table of Contents
@@ -185,6 +184,3 @@ Embed via Custom Code; ensure `<head>` includes `<link>` and `<body>` includes `
 ---
 
 Contact **[basalelr@gmail.com](mailto:basalelr@gmail.com)** for integration support.
-
-```
-```
